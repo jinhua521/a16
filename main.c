@@ -27,7 +27,15 @@ int main(){
               scanf("%c",&x);
         }
          if(code == 2){
-            
+            printf("qingshuruyaoshanchudemingganzifu\n");
+            char m;
+            scanf("%c",&m);
+            scanf("%c",&m);
+
+            printf("shanchuchenggong\n");
+            char x;
+            scanf("%c",&x);
+            scanf("%c",&x);
         }
          if(code == 3){
             
